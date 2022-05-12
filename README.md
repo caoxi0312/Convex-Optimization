@@ -1,7 +1,8 @@
 # Convex-Optimization
 Solutions for excercises in Convex Optimization by Stephen Boyd and Lieven Vandenberghe. 
 Link: https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook_extra_exercises.pdf
-HW1: Problems from Boyd & Vandenberghe: 2.10, 2.13, 2.15 (a-f), 2.19, 2.24, 2.28
+
+## HW1: Problems from Boyd & Vandenberghe: 2.10, 2.13, 2.15 (a-f), 2.19, 2.24, 2.28
      Problems from additional exercises: A2.7
      Problems from Boyd & Vandenberghe: 3.8, 3.13, 3.14
      Bonus questions
