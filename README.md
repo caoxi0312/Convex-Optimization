@@ -2,11 +2,13 @@
 Solutions for excercises in Convex Optimization by Stephen Boyd and Lieven Vandenberghe. 
 Link: https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook_extra_exercises.pdf
 
-## HW1: Problems from Boyd & Vandenberghe: 2.10, 2.13, 2.15 (a-f), 2.19, 2.24, 2.28
+## HW1: 
+     Problems from Boyd & Vandenberghe: 2.10, 2.13, 2.15 (a-f), 2.19, 2.24, 2.28
      Problems from additional exercises: A2.7
      Problems from Boyd & Vandenberghe: 3.8, 3.13, 3.14
      Bonus questions
-HW2: Problems from Boyd & Vandenberghe: 3.15, 3.18, 3.20, 3.22(c-e), 3.27, 3.36(a,d,f), 3.39(a,c,d) (you may use the results of problem 3.28 without proof), 3.49(a-c), 4.4, 4.9, 4.11(a-c), 4.13
+##HW2: 
+Problems from Boyd & Vandenberghe: 3.15, 3.18, 3.20, 3.22(c-e), 3.27, 3.36(a,d,f), 3.39(a,c,d) (you may use the results of problem 3.28 without proof), 3.49(a-c), 4.4, 4.9, 4.11(a-c), 4.13
      Bonus questions
 HW3: Problems from Boyd & Vandenberghe: 4.26 (for (b), solve only for m = 6 case), 4.43 (a-c), 4.45, 4.59
      Problems from Boyd & Vandenberghe: 5.3, 5.4, 5.9
